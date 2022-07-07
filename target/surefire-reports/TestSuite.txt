@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 166.33 s <<< FAILURE! - in TestSuite
+Academy.ValidateTitle.validateTitles  Time elapsed: 13.585 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEATURED12 COURSES] but found [FEATURED COURSES]
+	at Academy.ValidateTitle.validateTitles(ValidateTitle.java:40)
+

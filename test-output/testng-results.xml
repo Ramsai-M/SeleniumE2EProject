@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29661" started-at="2022-05-14T12:11:44 IST" finished-at="2022-05-14T12:12:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29661" started-at="2022-05-14T12:11:44 IST" finished-at="2022-05-14T12:12:14 IST">
+      <class name="Academy.ValidateNavBar">
+        <test-method status="PASS" signature="DriStart()[pri:0, instance:Academy.ValidateNavBar@2accdbb5]" name="DriStart" is-config="true" duration-ms="28406" started-at="2022-05-14T12:11:44 IST" finished-at="2022-05-14T12:12:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriStart -->
+        <test-method status="PASS" signature="validatTitles()[pri:0, instance:Academy.ValidateNavBar@2accdbb5]" name="validatTitles" duration-ms="301" started-at="2022-05-14T12:12:13 IST" finished-at="2022-05-14T12:12:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatTitles -->
+        <test-method status="PASS" signature="DriEnd()[pri:0, instance:Academy.ValidateNavBar@2accdbb5]" name="DriEnd" is-config="true" duration-ms="888" started-at="2022-05-14T12:12:13 IST" finished-at="2022-05-14T12:12:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriEnd -->
+      </class> <!-- Academy.ValidateNavBar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
